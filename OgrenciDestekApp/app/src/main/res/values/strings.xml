@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">OgrenciDestekApp</string>
+    <string name="textViewSplash">s</string>
+    <string name="recycerlview">s</string>
+    <string name="fabBtn">s</string>
+    <string name="set_due_tv">Due</string>
+    <string name="editTextMail">E-mail</string>
+    <string name="editTextSignUpMail">E-mail</string>
+    <string name="editTextTextPassword">Şifre</string>
+    <string name="editTextTextSignUpPassword">Şifre</string>
+    <string name="signInBtn"></string>
+    <string name="signUpBtn">s</string>
+    <string name="signInGoogle"></string>
+    <string name="register">Yeni bir kullanıcı mısın  ? Kayıt ol</string>
+    <string name="fpassword">Şifreni Mi Unuttun ? </string>
+    <string name="toDoList"></string>
+
+    <string name="forgotImage"> </string>
+    <string name="backSign"> Girişe dön</string>
+
+    <string name="forgotText"> </string>
+    <string name="mat2"> </string>
+
+
+    <string name="save_btn_task">s</string>
+    <string name="due_date_tv">Tarih</string>
+    <string name="mcheckbox">s</string>
+    <string name="task_edittext">Yapılacak görev ...</string>
+
+
+</resources>
